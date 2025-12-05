@@ -27,7 +27,7 @@ This repo includes:
 
 # 🧠 Algorithms Included
 
-Supervised Learning
+**Supervised Learning**
 
 Linear Regression
 
@@ -47,8 +47,7 @@ Gradient Boosting / XGBoost / AdaBoost
 
 Neural Network (basics using PyTorch/TensorFlow – optional)
 
-Unsupervised Learning
-
+**Unsupervised Learning**
 k-Means Clustering
 
 Hierarchical Clustering
@@ -57,13 +56,13 @@ DBSCAN
 
 PCA (Dimensionality Reduction)
 
-Utility Modules
+**Utility Modules**
 
 Train/Test Split
 
 Data Preprocessing (encoding, scaling, cleaning)
 
-Model Evaluation Metrics
+**Model Evaluation Metrics**
 
 How to save and load ML models (Pickle, Joblib)
 
