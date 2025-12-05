@@ -27,8 +27,6 @@ This repo includes:
 
 # 🧠 Algorithms Included
 
-(You can update this list as you add new models)
-
 Supervised Learning
 
 Linear Regression
